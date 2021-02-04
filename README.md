@@ -1,4 +1,4 @@
-# My viewpoints about articles related to the database 
+# Database privacy and measures to secure it
 
 In this document I will be discussing about importance of the security of the database and measures that Big Companies use to protect their data
 
